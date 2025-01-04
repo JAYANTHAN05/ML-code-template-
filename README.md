@@ -11,7 +11,7 @@ Welcome to the **ML-Code-Template** repository!
 ## 🛠 How to Use
 1. **Clone the Repository:**
    git clone [https://github.com/yourusername/ml-code-template.git](https://github.com/JAYANTHAN05/ML-code-template-.git)
-2. **Install the required packages**
+2. **Install the required packages:**
    pip install <Module_name==Module_Version>
 3. **Add Your Dataset:**
    Replace the placeholder dataset file with your dataset. Ensure your dataset matches the expected format described in the [Dataset Requirements](#dataset-requirements).
